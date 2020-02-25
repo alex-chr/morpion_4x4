@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{27AF4FD1-67FD-D773-302C-9E67A5F3786B}") = "morpion4exo", "Assembly-CSharp.csproj", "{E1AE30FE-84A4-E219-B644-8C39D53D1264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE30FE-84A4-E219-B644-8C39D53D1264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE30FE-84A4-E219-B644-8C39D53D1264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AE30FE-84A4-E219-B644-8C39D53D1264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AE30FE-84A4-E219-B644-8C39D53D1264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
